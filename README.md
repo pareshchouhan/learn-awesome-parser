@@ -4,13 +4,14 @@ Aim of this project to parse learn-awesome md files and generate json files to p
 
 
 # Installation
-git clone git@github.com:pareshchouhan/learn-awesome-parser.git
-cd learn-awesome-parser
+```
+git clone git@github.com:pareshchouhan/learn-awesome-parser.git  
+cd learn-awesome-parser  
 npm install
-
+```
 # RUN
-node index.js
+node index.js  
 
 # OUTPUT
 
-Generates two files temp1.json and temp2.json
+Generates two files temp1.json and temp2.json  
