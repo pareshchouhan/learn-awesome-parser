@@ -1,0 +1,3 @@
+[submodule "learn-awesome"]
+	path = learn-awesome
+	url = https://github.com/learn-awesome/learn-awesome.git
